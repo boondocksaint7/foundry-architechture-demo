@@ -9,8 +9,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@osdk/client": "^1.0.0",
-    "@osdk/react": "^1.0.0",
+    "@osdk/client": "^2.80.0",
+    "@osdk/react": "^2.80.0",
     "@vrl-shipment-network/sdk": "file:@vrl-shipment-network_sdk-0.2.0.tgz",
     "lucide-react": "^0.344.0",
     "react": "^18.3.1",
