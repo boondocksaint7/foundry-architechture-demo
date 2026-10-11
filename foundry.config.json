@@ -1,0 +1,12 @@
+{
+  "foundryUrl": "https://crmplatformdemo.euw-3.palantirfoundry.co.uk",
+  "site": {
+    "application": "ri.third-party-applications.main.application.ace4e90c-65a1-432f-8ced-1c10361e59db",
+    "directory": "./dist",
+    "autoVersion": {
+      "type": "git-describe",
+      "tagPrefix": ""
+    },
+    "uploadOnly": false
+  }
+}
